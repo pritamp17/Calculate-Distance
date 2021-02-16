@@ -15,7 +15,7 @@ App that can show distance between user's location and searched location on map.
 ```
 git clone https://github.com/<your_user_name>/Hacking-Scripts.git
 ```
-\\\\ Navigate to the project directory.
+Navigate to the project directory.
 ```bash
 cd Hacking-Scripts/python/Calculate-distance
 ```
