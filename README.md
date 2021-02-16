@@ -8,6 +8,13 @@ App that can show distance between user's location and searched location on map.
 4. Bootstrap
 
 # How to run
+**1.**  Fork [this](https://github.com/Tejas1510/Hacking-Scripts) repository.
+
+**2.**  Clone your forked copy of the project.
+
+```
+git clone https://github.com/<your_user_name>/Hacking-Scripts.git
+```
 \\\\ Navigate to the project directory.
 ```bash
 cd Hacking-Scripts/python/Calculate-distance
